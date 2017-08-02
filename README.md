@@ -1,4 +1,4 @@
-# ELM Media Query List
+# Elm Media Query List
 
 Implementation of MediaQueryList for [Elm](http://elm-lang.org).
 
