@@ -1,7 +1,7 @@
 {
   "name": "elm-media-query-list",
   "version": "0.1.0",
-  "description": "Implementation of MediaQueryList for ELM",
+  "description": "Implementation of MediaQueryList for Elm",
   "author": "remisery <20260860+remisery@users.noreply.github.com>",
   "license": "MIT",
 }
